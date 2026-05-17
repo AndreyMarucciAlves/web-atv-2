@@ -6,6 +6,7 @@ body{
 header{
     border: #ffffff 2px solid;
 }
+
 footer{
     background-color: #0B132B;
     color: #ffffff;
@@ -36,13 +37,9 @@ nav{
     padding: 15px;
 }
 
-h2{
+/*Agrupa a estilização do h2 e h3*/
+h2, h3{
     text-decoration: underline;
-    text-align: center;
-    color: #ffffff;
-}
-
-h3{
     text-align: center;
     color: #ffffff;
 }
@@ -94,6 +91,12 @@ a{
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
     color: #ffffff;
+    text-decoration: none;
+}
+
+a:hover{
+    color: #5BC0BE;
+    text-decoration: underline;
 }
 
 p{
