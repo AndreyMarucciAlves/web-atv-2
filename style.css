@@ -3,11 +3,15 @@ body{
     margin: 0; /** Remove a margem padrão do body para o alinhamento correto do h1 e footer*/
 }
 
+header{
+    border: #ffffff 2px solid;
+}
 footer{
     background-color: #0B132B;
     color: #ffffff;
     padding: 10px 0;
     text-align: center;
+    border: #ffffff 2px solid;
     padding: 15px; /** Adiciona um pouco de espaçamento vertical */
 }
 
@@ -27,6 +31,9 @@ nav{
     background-color: #0B132B;
     text-align: center;
     color: #ffffff;
+
+    
+    padding: 15px;
 }
 
 h2{
