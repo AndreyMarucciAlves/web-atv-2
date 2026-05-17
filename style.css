@@ -2,6 +2,12 @@ body{
     margin: 0;
 }
 
+footer{
+    background-color: #0B132B;
+    color: #ffffff;
+    padding: 10px 0;
+}
+
 h1{
     color: #ffffff;
     background-color: #0B132B;
@@ -51,3 +57,4 @@ section{
     border: 2px solid #0B132B;
     border-radius: 36px;
 }
+
