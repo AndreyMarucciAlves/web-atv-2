@@ -1,4 +1,5 @@
 body{
+    background-color: #1c2541;
     margin: 0;
 }
 
@@ -44,6 +45,8 @@ h3{
     text-align: center;
 }
 img{
+    display: block;
+    margin: 0 auto;
     border-radius: 36px;
 }
 
@@ -51,10 +54,20 @@ img{
    text-align: center;
 }
 
-section{
+article{
+    background-color: #3A506B;
     margin: 20px;
     padding: 20px;
     border: 2px solid #0B132B;
     border-radius: 36px;
+}
+
+section{
+    color: #5BC0BE;
+    font: bold;
+    font-size: 18px;
+    border-radius: 36px;
+    background-color: #ffffff;
+    margin: 20px 0;
 }
 
