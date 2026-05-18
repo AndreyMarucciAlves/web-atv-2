@@ -72,6 +72,8 @@ section{
     background-color: #ffffffaf;
     margin: 20px 0;
     border: 2px solid #0B132B;
+
+    padding: 25px;/*Adiciona espaçamento interno para desgrudar o texto de dentro da seção da margem*/
 }
 
 aside{
@@ -105,7 +107,6 @@ a:hover{
 
 p{
     color: #0B132B;
-    text-indent: 50px;
     font-family: 'Roboto', sans-serif;
 }
 
