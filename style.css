@@ -16,13 +16,13 @@ footer{
     padding: 15px; /** Adiciona um pouco de espaçamento vertical */
 }
 
-h1{
+#topo /*ID do h1*/{
     color: #ffffff;
     background-color: #0B132B;
     font-size: 40px;
     text-align: center;
     text-transform: uppercase;
-    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: 'Roboto', sans-serif;
 
     margin: 0; /** Remove a margem padrão do h1 */
     padding: 15px; /** Adiciona um pouco de espaçamento vertical */
@@ -42,6 +42,7 @@ h2, h3{
     text-decoration: underline;
     text-align: center;
     color: #ffffff;
+    font-family: 'Roboto', sans-serif;
 }
 
 img{
@@ -52,6 +53,7 @@ img{
 
 .gancho{
    text-align: center;
+   font-family: 'Roboto', sans-serif;
 }
 
 article{
@@ -79,16 +81,18 @@ aside{
 ul{
     list-style: square;
     color: #0B132B;
+    font-family: 'Roboto', sans-serif;
 }
 
 ol{
     list-style: upper-roman; /*Enumera a lista em algarismos romanos*/
     color: #0B132B;
+    font-family: 'Roboto', sans-serif;
 }
 
 a{  
     font-size: 30px;
-    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: 'Roboto', sans-serif;
     text-align: center;
     color: #ffffff;
     text-decoration: none;
@@ -102,11 +106,12 @@ a:hover{
 p{
     color: #0B132B;
     text-indent: 50px;
+    font-family: 'Roboto', sans-serif;
 }
 
 .clique-aqui{
     text-align: center;
     color: #ffffff;
     font-size: 20px;
-    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: 'Roboto', sans-serif;
 }
