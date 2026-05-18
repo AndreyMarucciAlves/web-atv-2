@@ -10,7 +10,6 @@ header{
 footer{
     background-color: #0B132B;
     color: #ffffff;
-    padding: 10px 0;
     text-align: center;
     border: #ffffff 2px solid;
     padding: 15px; /** Adiciona um pouco de espaçamento vertical */
@@ -69,7 +68,6 @@ article{
 
 section{
     color: #5BC0BE;
-    font: bold;
     font-size: 18px;
     border-radius: 36px;
     background-color: #ffffffaf;
