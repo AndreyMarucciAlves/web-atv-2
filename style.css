@@ -41,7 +41,7 @@ nav{
 h2, h3{
     text-decoration: underline;
     text-align: center;
-    color: #ffffff;
+    color: #180c96;
     font-family: 'Roboto', sans-serif;
 }
 
@@ -111,7 +111,12 @@ p{
 
 .clique-aqui{
     text-align: center;
-    color: #ffffff;
+    color: #180c96;
     font-size: 20px;
     font-family: 'Roboto', sans-serif;
+}
+
+.clique-aqui:hover{
+    color: #ffffff;
+    text-decoration: underline;
 }
