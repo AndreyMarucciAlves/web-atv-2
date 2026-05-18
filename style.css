@@ -70,9 +70,9 @@ section{
     font-size: 18px;
     border-radius: 36px;
     background-color: #ffffffaf;
-    margin: 20px 0;
-    border: 2px solid #0B132B;
 
+    margin: 20px 20px;
+    border: 2px solid #0B132B;
     padding: 25px;/*Adiciona espaçamento interno para desgrudar o texto de dentro da seção da margem*/
 }
 
