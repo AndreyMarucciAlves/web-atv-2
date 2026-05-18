@@ -44,7 +44,10 @@ h2, h3{
     color: #180c96;
     font-family: 'Roboto', sans-serif;
 }
-
+h3 + p{
+    text-decoration: underline;
+    font-family: 'Roboto', sans-serif;
+}
 img{
     border-radius: 36px;
     display: block;
